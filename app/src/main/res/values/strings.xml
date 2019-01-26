@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">HuQuizzes</string>
+    <string name="passHint">Password</string>
+    <string name="Showmark">Show Mark</string>
+    <string name="login_btn">LogIn</string>
+    <string name="SignupTEXT">  No account yet ? Create one </string>
+    <string name="fullname_signup">Full name</string>
+    <string name="username_signup">Username</string>
+    <string name="Email">Email</string>
+    <string name="signup_btn">SignUp</string>
+    <string name="title_activity_sign_up_">SignUp_Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_sign_tapped">SignTappedActivity</string>
+    <string name="Doctor">Doctor</string>
+    <string name="Student">Student</string>
+    <string name="studentid">Student ID</string>
+    <string name="addquiz">Add Quiz</string>
+    <string name="myquiz">My Quiz</string>
+    <string name="MARK">Mark</string>
+    <string name="createquiz">Create Quiz</string>
+    <string name="logout">LOGOUT</string>
+    <string name="quizID">QuizID</string>
+    <string name="QuizName">Quiz Name</string>
+    <string name="QuizDuration">QuizDuration</string>
+    <string name="createquizbtn">Create Quiz</string>
+    <string name="QuizCode">Quiz ID</string>
+    <string name="addquastion">Add Quastions</string>
+    <string name="myquastions">Show Quastions</string>
+    <string name="delete">Delete</string>
+    <string name="Quastion">Quastion</string>
+    <string name="TrueAnswer">True Answer</string>
+    <string name="FalseAnswer">False Answer</string>
+    <string name="multiblechoice">Multible Choice</string>
+    <string name="fill">Fill In The Blank</string>
+    <string name="Questions">Questions</string>
+    <string name="next">Next</string>
+    <string name="Quizcode">Quiz Code</string>
+    <string name="startQuizBTN">Start Quiz</string>
+    <string name="generate">Generate Quiz QR</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="imgdoctor">imgdoctor</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_nav_doctor">NavDoctor</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_nav_student">NavStudent</string>
+    <string name="title_activity_quastion_type">QuastionType</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="student_name">Student Name</string>
+
+    <string-array name="quiztime">
+
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+</resources>
